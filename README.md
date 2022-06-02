@@ -8,7 +8,7 @@
 
 🔭 I have been working as a full stack engineer since 2015. Working with Microsoft since 2018.
 
-👯 A team player who is passionate about helping and collaborating within the team to make the businesses succeeded.
+👯 A team player who is passionate about helping and collaborating within the team to make the businesses succeed.
 
 🌱 Always ready to learn new things which helps me to choose the most effective methods for solving difficult problems.
 
