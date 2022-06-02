@@ -205,6 +205,8 @@
      
 ## Article ✍️
 
+**9.** [Date Time Picker Issue On Razor Page Edit Mode]([https://stackoverflow.com/questions/72297427/how-do-i-restrict-all-access-to-a-given-route-in-net-core-2-1/72298268#72298268](https://stackoverflow.com/questions/72257359/how-do-i-fill-the-html-field-with-date-in-asp-net-mvc/72267205#72267205)).
+
 **8.** [Restrict Specific Route Using Action Filter](https://stackoverflow.com/questions/72297427/how-do-i-restrict-all-access-to-a-given-route-in-net-core-2-1/72298268#72298268).
 
 **7.** [DotNet 6 Unit Of Work Implementation](https://stackoverflow.com/questions/71244288/where-can-i-register-unit-of-work-service-in-net-6/71249103#71249103).
