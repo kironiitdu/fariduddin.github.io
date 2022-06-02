@@ -1,7 +1,7 @@
 
 <img src="https://i.stack.imgur.com/0iRQt.png?s=256&amp;g=1" alt="user avatar" width="128" height="128" class="bar-sm bar-md d-block">   
 
-## Md Farid Uddin Kiron 
+## Md Farid Uddin Kiron ☎️ +86 15687139164
 | Programmer | Full Stack Engineer | AZURE  | C# | Python | REST API | ASP.NET CORE| React  | JavaScript | SQL |
 
 ## About 📑
