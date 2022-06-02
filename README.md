@@ -1,7 +1,7 @@
 
 <img src="https://i.stack.imgur.com/0iRQt.png?s=256&amp;g=1" alt="user avatar" width="128" height="128" class="bar-sm bar-md d-block">   
 
-## Md Farid Uddin Kiron ☎️ +86 15687139164
+## Md Farid Uddin Kiron 
 | Programmer | Full Stack Engineer | AZURE  | C# | Python | REST API | ASP.NET CORE| React  | JavaScript | SQL |
 
 ## About 📑
@@ -259,6 +259,7 @@ Would you like to connect  me?
 
 <img src="https://ow2.res.office365.com/owalanding/2022.4.21.01/images/outlook-icon.jpg" width="45" height="45" class="bar-sm bar-md d-block">  [kironiitdu@outlook.com](https://outlook.live.com/owa/) 
 
+## ☎️ +86 15687139164
 
 🔄**Note** Thank you very much for taking a look on my profile. Have a great day around.
 
