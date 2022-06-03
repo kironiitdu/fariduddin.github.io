@@ -57,8 +57,6 @@
    Object Oriented Programming, Code Refactoring. 
 
    Asynchronous request handling, Thread management, Locking mechanism.
-
-
 ```
 
 
