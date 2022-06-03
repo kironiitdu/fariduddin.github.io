@@ -61,7 +61,7 @@
 
 
 
-✅ **Database** `SQL Server(Any version after 2012), Postgre SQL, My SQL`
+✅ **Database** SQL Server(Any version after 2012), Postgre SQL, My SQL
    
   ```markdown
   
