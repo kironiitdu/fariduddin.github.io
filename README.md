@@ -259,7 +259,6 @@ Would you like to connect  me?
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="45" height="45" class="bar-sm bar-md d-block">  [GitHub](https://github.com/kironiitdu) 
 
-<img src="https://i.stack.imgur.com/CK8XL.png" width="40" height="40" class="bar-sm bar-md d-block">  [Upwork](https://www.upwork.com/freelancers/~01d5454cff15050add?s=1110580755107926016) 
 
 <img src="https://ow2.res.office365.com/owalanding/2022.4.21.01/images/outlook-icon.jpg" width="45" height="45" class="bar-sm bar-md d-block">  [kironiitdu@outlook.com](https://outlook.live.com/owa/) 
 
