@@ -151,7 +151,7 @@
    
    Since: May 8, 2015
    
-   Link: [Check Here](https://learn.microsoft.com/en-us/users/mdfariduddinkiron-3609/transcript/7x8xazqk2l43x3v) 
+   Link: [Check Here](https://learn.microsoft.com/en-us/users/fariduddinkironmsft-5690/transcript/dee6ni2x0rk8qqn) 
 
  **MCP (Microsoft Certified Professional)**
  
@@ -159,7 +159,7 @@
    
    Since: March 1, 2015
    
-   Link: [Check Here](https://learn.microsoft.com/en-us/users/mdfariduddinkiron-3609/transcript/7x8xazqk2l43x3v) 
+   Link: [Check Here](https://learn.microsoft.com/en-us/users/fariduddinkironmsft-5690/transcript/dee6ni2x0rk8qqn) 
    
 
 
