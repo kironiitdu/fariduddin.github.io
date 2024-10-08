@@ -26,6 +26,33 @@
 
 
 
+## Accomplishment 🖥️
+
+💡Collaborated with product owners to prioritize and develop new features, resulting
+in a 20% increase in user engagement and a 35% improvement in overall
+efficiency for 1M user-based enterprise application.
+
+💡 Identified system deadlock and timeout issue in existing applications, enhancing
+overall application efficiency up to 45% by implementing asynchronous thread.
+
+💡 Upgraded 7 legacy systems and migrated to the latest .NET frameworks,
+improved scalability, and maintainability with full SOLID and object-oriented
+programming implementation by writing reusable component.
+
+💡 Collaborated with cross-functional teams, including UI/UX designers and DevOps
+engineers, to ensure cohesive product development and reduced tightly coupled
+components.
+
+💡 Build a technical support platform for Microsoft product users by addressing
+queries and troubleshooting issues which reduced support cost by 30%.
+
+💡 Supported Azure Web App integration, ensuring seamless deployment and
+reduced Azure SQL cost by 15%.
+
+💡 Became best performer by using up to 87% of UT among the global team 4th
+times in 6 years.
+
+
 ## I Like to 👍
 ```markdown
 
