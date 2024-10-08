@@ -77,7 +77,7 @@ times in 6 years.
 
 ```markdown
   
-   C#, ASP.NET Core, Web API, DotNet 5-6, Entity Framework All version.
+   C#, ASP.NET Core, Web API, DotNet 6-8, Entity Framework All version.
 
    Data structure and call stack mechanism.
 
