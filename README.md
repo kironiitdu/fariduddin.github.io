@@ -230,6 +230,14 @@ times in 6 years.
      
 ## Blog & Article ✍️
 
+**15.** [Clean and Scalable eCommerce Apps in C# Using MediatR and CQRS](https://medium.com/@dotnetkiron/building-clean-and-scalable-ecommerce-apps-in-c-using-mediatr-and-cqrs-9b6084d29664)
+
+**14.** [Building a Secure and User-Friendly Job and Candidate Hunting Platform Using .NET 9 and Tailwind](https://medium.com/@dotnetkiron/building-a-secure-and-user-friendly-job-and-candidate-hunting-platform-using-net-9-and-tailwind-5c2a1afd92f4)
+
+**13.** [Microservices in .NET with ASP.NET Core 9](https://medium.com/@dotnetkiron/microservices-in-net-with-asp-net-core-8-3d2a52dbd1fa)
+
+**12.** [Dynamic Binding of Route Parameters in ASP.NET Core with a Custom Model Binder](https://medium.com/@dotnetkiron/dynamic-binding-of-route-parameters-in-asp-net-core-with-a-custom-model-binder-9d830f1014f1)
+
 **11.** [Azure Authentication Bot A Complete Implementation Guideline](https://github.com/kironiitdu/AzureAuthBotImplementation/blob/main/README.md)
 
 **10.** [Asp.Net Core Web API React Handle Files](https://github.com/kironiitdu/Asp.net-core-React-File-Upload)
